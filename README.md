@@ -1,3 +1,7 @@
+##  :gem: "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You" S.J
+
+
+
 ### Hi there 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
