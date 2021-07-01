@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Passionate About Web Development and Devops.
 - 🎓 &nbsp; M.S. in Software Engineering from East Carolina University.
-- 💼 &nbsp; Working as a Software Developer at Frazer Computing.
+- 💼 &nbsp; Working as a Web Developer at Hyster-Yale Group.
 - ✍️ &nbsp; Currently Working on Creating an Online Community and Resource Guide for Developer with Focus on Design. 
 
 <br/>
