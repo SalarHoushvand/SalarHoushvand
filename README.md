@@ -9,7 +9,6 @@
 - 🤔 &nbsp; Passionate About Web Development and Devops.
 - 🎓 &nbsp; M.S. in Software Engineering from East Carolina University.
 - 💼 &nbsp; Working as a Web Developer at Hyster-Yale Group.
-- ✍️ &nbsp; Founder and CEO of <a href="https://www.menuteur.com/">Menuteur</a>.
 
 <br/>
 
