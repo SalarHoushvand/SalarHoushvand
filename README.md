@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Passionate About Web Development and Devops.
+- 🤔 &nbsp; Passionate About Web Development and UX Enginnering.
 - 🎓 &nbsp; M.S. in Software Engineering from East Carolina University.
 - 💼 &nbsp; Working as a Web Developer at Hyster-Yale Group.
 
